@@ -12,3 +12,11 @@ Business Objective -
 Lead X has tasked us with developing a model that will assign a lead score ranging from 0 to 100 to every lead. This will enable them to easily identify the hottest leads and significantly boost their conversion rate. Our CEO has set an ambitious goal of achieving an 80% lead conversion rate.
 
 Furthermore, we are expected to create a model that can handle future constraints such as peak time actions, optimal utilization of manpower, and post-target achievement approaches. We are confident in our ability to deliver a comprehensive and effective solution that will exceed expectations.
+
+## Details of files given
+- Lead Score_python Notebook .ipynb : The python file showing coding and data analysis
+- Lead Score_Subjective Questions.pdf : Some subjective questions answered
+- Lead Score_PPT : Final Presentation
+- Leads.csv : Data worked on
+- Leads Data Dictionary.xlsx : Data Dictionary
+- Lead_Summary.pdf : Summary on what's done in the entire py file
